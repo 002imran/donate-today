@@ -163,7 +163,7 @@ h4{
     border: none;
     margin-left: 25px;
     text-align: left;
-    height: 47vh;
+    height: 50vh;
     width: 25%;
     border-radius: 10px;
     
@@ -215,9 +215,14 @@ h3{
     border-radius: 10px;
        
 }
+.occational-card-heading{
+    text-align: center;
+}
 .ocational-card img{
     height: 50vh;
-    width: 100%;
+    width: 80%;
+    padding-left: 10%;
+    
 }
 
 /* **********Update section Start********** */
