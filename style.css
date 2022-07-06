@@ -193,6 +193,9 @@ h3{
 
 /* ******Donate plane End******* */
 
+
+/* *******Ocational DOnation Program Star******* */
+
 .ocational-donation{
     margin-top: 10%;
     height: 100vh;
@@ -226,6 +229,20 @@ h3{
     object-fit: cover;
     
 }
+
+
+#img-goru{
+    width: 80%;
+    padding: 10%;
+}
+#occational-card{
+    background-color: rgb(202, 130, 168);
+    height: 100vh;
+    width: 50%;
+}
+
+
+
 
 /* **********Update section Start********** */
 
