@@ -193,7 +193,7 @@ h3{
 
 /* ******Donate plane End******* */
 
-.ocaitional-donation{
+.ocational-donation{
     margin-top: 10%;
     height: 100vh;
 }
@@ -211,7 +211,7 @@ h3{
     margin-left: 5%;
     margin-right: 5%;
     object-fit: cover;
-    /* background: rgb(233, 142, 142); */
+    background: rgb(233, 142, 142);
     border: none;
     border-radius: 10px;
        
